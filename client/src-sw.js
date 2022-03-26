@@ -35,4 +35,4 @@ registerRoute( ({ request }) => ['style', 'script', 'worker'].includes(request.d
   })
 );
 // TODO: Implement asset caching
-registerRoute();
+//registerRoute();
